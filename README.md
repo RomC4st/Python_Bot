@@ -7,6 +7,7 @@ A bot that allow connection to a website and file download
 First download ChromeDriver in the root folder:
 * [Webdriver](https://chromedriver.chromium.org/downloads) 
 * Make .env file
+* Create /download folder 
 
 ### Environnement variable
 
