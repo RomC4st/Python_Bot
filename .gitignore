@@ -1,4 +1,5 @@
 # ignore all zip files
+/download
 *.zip
 .env
 chromedriver
