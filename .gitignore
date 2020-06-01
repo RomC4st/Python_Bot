@@ -1,4 +1,3 @@
-/download
 # ignore all zip files
 *.zip
 .env
